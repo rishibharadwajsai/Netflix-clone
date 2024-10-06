@@ -9,7 +9,7 @@ body{
 
 .main {
     font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
-    background-image: url("bg_netflix.jpg");
+    background-image: url("assets/bg_netflix.jpg");
 
     height: 90vh;
     background-position-y: 90%;
